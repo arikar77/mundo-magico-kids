@@ -1,0 +1,18 @@
+{
+  "name": "Mundo Mágico Kids",
+  "short_name": "Mundo Mágico",
+  "description": "Juegos educativos para niños de 3 a 8 años",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9e3ff",
+  "theme_color": "#7656c9",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

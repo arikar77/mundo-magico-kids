@@ -1,0 +1,33 @@
+MUNDO MÁGICO KIDS — PAQUETE WEB/PWA
+
+Contenido:
+- index.html: página principal y juegos.
+- familias.html: información para personas adultas.
+- privacidad.html: aviso preliminar con campos que la titular debe completar.
+- manifest.webmanifest: configuración de aplicación web instalable.
+- sw.js: caché para funcionamiento sin conexión tras la primera carga.
+- icon.svg: ícono.
+- LEEME.txt: estas instrucciones.
+
+PRUEBA LOCAL:
+Abrí index.html en un navegador moderno. La instalación PWA y el modo offline requieren HTTPS o localhost.
+
+PUBLICAR GRATIS CON GITHUB PAGES:
+1. Crear/iniciar sesión en GitHub.
+2. Crear un repositorio público llamado mundo-magico-kids.
+3. Descomprimir este ZIP y subir TODOS los archivos a la raíz del repositorio.
+4. En el repositorio, abrir Settings > Pages.
+5. En Build and deployment, elegir Deploy from a branch.
+6. Elegir la rama main y la carpeta /(root), y guardar.
+7. Esperar que GitHub Pages muestre la URL del sitio. Consultar la pestaña Actions si hay errores.
+
+IMPORTANTE ANTES DE PUBLICAR:
+- Este paquete es un MVP/prototipo, no una app comercial auditada ni una certificación de seguridad infantil.
+- La página privacidad.html es un BORRADOR: completar los campos entre corchetes con datos reales y pedir revisión legal antes del lanzamiento público/comercial.
+- GitHub Pages publica el contenido en Internet; no subas información personal o privada al repositorio.
+- Verificar la configuración y políticas actuales del hosting y del país donde se ofrecerá el servicio.
+- Probar en Android, iOS, tablet y escritorio; comprobar teclado, contraste, lectura, tamaño de botones, audio y funcionamiento sin conexión.
+- La voz usa síntesis del navegador y puede variar o no estar disponible según dispositivo.
+- No incluye anuncios, pagos, cuentas, chat, analítica ni recolección propia de datos de niños.
+- Antes de monetizar, añadir anuncios, cuentas, analítica o compras, hacer una revisión específica de privacidad infantil, consentimiento parental, normativa y políticas de cada plataforma.
+- No está publicado aún: la titular debe crear/configurar la cuenta de hosting y activar Pages.
